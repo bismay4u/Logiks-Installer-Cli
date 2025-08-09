@@ -3,7 +3,7 @@
 #To use this script use the below command
 #curl -sL https://raw.githubusercontent.com/Logiks/Logiks-Installer-Cli/master/bash/with-cms.sh | sudo -E bash -
 
-pluginArr=("charts" "dashboard" "datagrid" "forms" "infoview" "infoviewTable" "mapps" "navigator" "packages" "pages" "reports" "views")
+pluginArr=("bpms" "charts" "dashboard" "datagrid" "forms" "infoview" "infoviewTable" "mapps" "navigator" "packages" "pages" "reports" "views" "workflows")
 
 wget https://github.com/Logiks/Logiks-Core/archive/master.zip
 unzip master.zip
