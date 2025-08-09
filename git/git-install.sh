@@ -9,6 +9,7 @@ git clone --branch=master https://github.com/LogiksApps/Logiks-CMS.git cms/
 git clone --branch=master https://github.com/LogiksApps/_website.git home/
 
 cd ../plugins/modules/
+git clone --branch=master https://github.com/LogiksPlugins/bpms.git
 git clone --branch=master https://github.com/LogiksPlugins/charts.git
 git clone --branch=master https://github.com/LogiksPlugins/content.git
 git clone --branch=master https://github.com/LogiksPlugins/dashboard.git
@@ -17,11 +18,13 @@ git clone --branch=master https://github.com/LogiksPlugins/forms.git
 git clone --branch=master https://github.com/LogiksPlugins/gallery.git
 git clone --branch=master https://github.com/LogiksPlugins/infoview.git
 git clone --branch=master https://github.com/LogiksPlugins/infoviewTable.git
+git clone --branch=master https://github.com/LogiksPlugins/mapps.git
 git clone --branch=master https://github.com/LogiksPlugins/navigator.git
 git clone --branch=master https://github.com/LogiksPlugins/packages.git
 git clone --branch=master https://github.com/LogiksPlugins/pages.git
 git clone --branch=master https://github.com/LogiksPlugins/reports.git
 git clone --branch=master https://github.com/LogiksPlugins/views.git
+git clone --branch=master https://github.com/LogiksPlugins/workflows.git
 
 cd ../../../
 pwd
